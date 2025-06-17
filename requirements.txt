@@ -1,0 +1,9 @@
+torch
+accelerate
+transformers
+gradio
+langdetect
+pyaudio
+filetype
+pyannote.audio
+python-dotenv
